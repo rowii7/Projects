@@ -97,12 +97,4 @@ Training and validation metrics show:
 
 ---
 
-## 📦 Installation
-
-Clone the repository and install required packages:
-
-```bash
-git clone https://github.com/yourusername/brain-tumor-detection.git
-cd brain-tumor-detection
-pip install -r requirements.txt
 
